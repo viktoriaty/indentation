@@ -10,3 +10,11 @@
   font-weight: 700;
   line-height: 120%;
 }
+
+.summary__list {
+  padding-bottom: 30px;
+}
+
+.summary__list_item:not(:last-child) {
+  margin-bottom: 10px;
+}
