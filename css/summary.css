@@ -1,0 +1,12 @@
+.summary {
+  padding: 25px 30px 25px 45px;
+  background-color: #F1F1F1;
+  border-radius: 10px;
+}
+
+.summary__header {
+  margin-bottom: 20px;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 120%;
+}

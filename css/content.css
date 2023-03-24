@@ -1,0 +1,23 @@
+.content {
+  padding-top: 25px;
+  padding-left: 45px;
+  border-radius: 10px;
+  background-color: #F1F1F1;
+}
+
+.content__header {
+    margin-bottom: 20px;
+}
+
+.content__list {
+  padding-bottom: 26px;
+}
+
+.content__list_item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.content__list_link {
+  border-bottom: 1px solid #000000;
+  color: #02535F;
+}

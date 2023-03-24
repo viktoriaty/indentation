@@ -1,0 +1,53 @@
+.unit__header {
+  margin-bottom: 30px;
+}
+
+.unit__left {
+  height: 415px;
+  margin-bottom: 30px;
+}
+
+.unit__left_foto {
+  float: left;
+  margin-right: 30px;
+}
+
+.unit__left_text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.unit__right {
+  height: 279px;
+}
+
+.unit__right_foto{
+  float: right;
+  margin-left: 40px;
+}
+
+.unit__right_text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.unit__text:not(:last-child){
+  margin-bottom: 30px;
+}
+
+.unit__foto {
+  margin: 0 auto 30px;
+  display: block;
+  
+}
+
+.unit__third_text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.unit__figure {
+  margin-bottom: 30px;
+  border: 1px solid #000000;
+}
+
+.unit__figcaption {
+  padding: 15px 30px;
+}
