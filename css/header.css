@@ -1,0 +1,19 @@
+.header {
+  padding-bottom: 25px;
+}
+
+.header__title {
+  margin-bottom: 30px;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 72px;
+}
+
+.header__text {
+  margin-bottom: 30px;
+}
+
+.header__text:last-child {
+  margin-bottom: 50px;
+}
+

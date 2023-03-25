@@ -39,6 +39,10 @@
   
 }
 
+.unit__foto:last-child {
+  margin-bottom: 0;
+}
+
 .unit__third_text:not(:last-child) {
   margin-bottom: 30px;
 }

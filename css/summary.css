@@ -15,6 +15,6 @@
   padding-bottom: 30px;
 }
 
-.summary__list_item:not(:last-child) {
+.summary__item:not(:last-child) {
   margin-bottom: 10px;
 }
